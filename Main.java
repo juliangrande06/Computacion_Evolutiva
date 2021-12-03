@@ -1,17 +1,22 @@
 import java.io.IOException;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
 
 public class Main {
     
     static final int N= 10;      //Cantidad de ciudades
-    static final int POB= 1000;     //Cantidad de individuos de la poblacion (debe ser un valor par)
+    static final int POB= 12;     //Cantidad de individuos de la poblacion (debe ser un valor par)
     static final Double PC= 0.9; //Probabilidad de Cruce
     static final Double PM= 0.3; //Probabilidad de Mutacion
     static final int TR= 10;     //Valor para la seleccion por Torneo
     static final int CTR= POB/2; //Cantidad de Torneos
     static int aux;
+    static double daux;
+    static ArrayList<Integer> padres= new ArrayList<>();
+    static ArrayList<ArrayList<Double>> hijos= new ArrayList<>();
+    
     
     private static Double matrizCaminoEntreCiudades[][] = { //Entrada
         //Ciudad 0
@@ -94,7 +99,6 @@ public class Main {
     }
     
     public static void seleccionPadres(ArrayList<ArrayList<Double>> poblacion){
-        ArrayList<Integer> padres= new ArrayList<>();
         Boolean rta = false;
         int[] index = new int[TR];
         int pos = 0;
@@ -139,12 +143,12 @@ public class Main {
                 }
             }
             padres.add(padre1);
-
+/*
             System.out.println("  Torneo de Padre 1");
             for(int k=0; k<index.length; k++){
                 System.out.println(k+": "+index[k]);
             }
- 
+ */
             // --------- Padre 2 ---------
             rta = false;
             index = new int[TR];
@@ -184,16 +188,113 @@ public class Main {
                 }
             }
             padres.add(padre2);
-
+/*
             System.out.println("  Torneo de Padre 2");
             for(int k=0; k<index.length; k++){
                 System.out.println(k+": "+index[k]);
             }
+*/
         }
-
+/*
         System.out.println(" Lista de Padres");
         for(int i=0; i<padres.size();i++){
             System.out.println(i+": "+padres.get(i));
+        }
+*/
+    }
+
+    public static void cruceEnOrden(ArrayList<ArrayList<Double>> poblacion){
+        ArrayList<Double> padre1 = new ArrayList<>();
+        ArrayList<Double> padre2 = new ArrayList<>();
+        ArrayList<Double> individuo;
+        double[] hijito= new double[N];
+        int puntoX= -1;
+        int puntoY= -1;
+        int diferencia= -1;
+        Boolean rta= true;
+
+        System.out.println("   Cruce en Orden");
+        for(int i=0; i<padres.size();i=i+2){
+            padre1= poblacion.get(padres.get(i));
+            padre2= poblacion.get(padres.get(i+1));
+
+            while(rta){ //Eleccion de puntos de Cruce
+                puntoX= (int) (N * Math.random()); //Elijo PuntoX al azar
+                if(puntoX != 0 && puntoX != N){
+                    puntoY= (int) (N * Math.random()); //Elijo distancia desde el PuntoX
+                    diferencia= puntoX -puntoY;
+                    
+                    if(diferencia != 0){
+                        if(diferencia > 0){
+                            int aux_diferencia= puntoX;
+                            puntoX= puntoY;
+                            puntoY= aux_diferencia; 
+                        }
+                        rta= false;
+                    }
+                }
+            }
+
+            System.out.println("  PuntoX: "+puntoX+" ... PuntoY: "+puntoY);
+            System.out.println(" Padre 1");
+            mostrarIndividuo(padre1);
+            System.out.println(" Padre 2");
+            mostrarIndividuo(padre2);
+
+            for(int l=0; l<2; l++){
+                individuo= new ArrayList<>();
+                rta= false;
+                int pos= puntoY+1;
+                int cant= 0;
+
+                for(int j=puntoX; j<=puntoY; j++){ //Copio en Hijo los valores entre X e Y
+                    hijito[j]= padre1.get(j);
+                    cant++;
+                }
+
+                for(int j=puntoY; j<N && cant<=N; j++){ //de puntoY a N
+                    daux= padre2.get(j);
+                    rta= DoubleStream.of(hijito).anyMatch(x -> x == daux);
+                    
+                    if(!rta){
+                        if(pos >= N){
+                            pos= 0;
+                        }
+                        
+                        hijito[pos]= daux;
+                        pos++;
+                        cant++;
+                        System.out.println("Cantidad es: "+cant+" ... J es: "+j);
+                    }
+                }
+
+                for(int j=0; j<N && cant<=N; j++){ //de 0 a N
+                    daux= padre2.get(j);
+                    rta= DoubleStream.of(hijito).anyMatch(x -> x == daux);
+                    System.out.println("daux: "+daux+" ... rta: "+rta);
+                    if(!rta){
+                        if(pos >= N){
+                            pos= 0;
+                        }
+                        
+                        hijito[pos]= daux;
+                        pos++;
+                        cant++;
+                        System.out.println("Cantidad es: "+cant+" ... J es: "+j);
+                    }
+                }
+
+                System.out.println(" Hijo "+l);
+                for(int j=0; j<N; j++){
+                    individuo.add(hijito[j]);
+                    hijito[j]= -1.0;
+                }
+                mostrarIndividuo(individuo);
+
+                hijos.add(individuo);
+                padre1= padre2;
+                padre2= poblacion.get(padres.get(i));
+            }
         }
     }
 
@@ -204,5 +305,6 @@ public class Main {
         inicializacionAleatoria(poblacion);
         fitness(poblacion);
         seleccionPadres(poblacion);
+        cruceEnOrden(poblacion);
     }
 }

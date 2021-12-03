@@ -1,0 +1,486 @@
+   Main
+   Inicializacion Aleatoria
+   Funcion de Fitness
+   Seleccion de Padres
+   Cruce en Orden
+  PuntoX: 2 ... PuntoY: 3
+ Padre 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+10: 0.001694915254237288
+ Padre 2
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+10: 0.0010695187165775401
+Cantidad es: 3 ... J es: 3
+Cantidad es: 4 ... J es: 4
+Cantidad es: 5 ... J es: 5
+Cantidad es: 6 ... J es: 6
+Cantidad es: 7 ... J es: 8
+daux: 8.0 ... rta: false
+Cantidad es: 8 ... J es: 0
+daux: 6.0 ... rta: false
+Cantidad es: 9 ... J es: 1
+daux: 5.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 3.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 0.0 ... rta: true
+ Hijo 0
+  Mostrando un Individuo
+0: 6.0
+1: 0.0
+2: 5.0
+3: 1.0
+4: 2.0
+5: 9.0
+6: 3.0
+7: 4.0
+8: 7.0
+9: 8.0
+Cantidad es: 3 ... J es: 3
+Cantidad es: 4 ... J es: 4
+Cantidad es: 5 ... J es: 5
+Cantidad es: 6 ... J es: 6
+Cantidad es: 7 ... J es: 7
+Cantidad es: 8 ... J es: 9
+daux: 0.0 ... rta: false
+Cantidad es: 9 ... J es: 0
+daux: 6.0 ... rta: false
+Cantidad es: 10 ... J es: 1
+daux: 5.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 8.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 3.0 ... rta: true
+ Hijo 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 1.0
+5: 4.0
+6: 8.0
+7: 9.0
+8: 7.0
+9: 3.0
+  PuntoX: 1 ... PuntoY: 8
+ Padre 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+10: 0.001694915254237288
+ Padre 2
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+10: 0.0010695187165775401
+Cantidad es: 9 ... J es: 9
+daux: 8.0 ... rta: true
+daux: 6.0 ... rta: true
+daux: 5.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 3.0 ... rta: false
+Cantidad es: 10 ... J es: 5
+daux: 4.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 0.0 ... rta: true
+ Hijo 0
+  Mostrando un Individuo
+0: 3.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 0.0
+daux: 0.0 ... rta: false
+Cantidad es: 9 ... J es: 0
+daux: 6.0 ... rta: true
+daux: 5.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 8.0 ... rta: false
+Cantidad es: 10 ... J es: 5
+daux: 9.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 3.0 ... rta: true
+ Hijo 1
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+  PuntoX: 2 ... PuntoY: 9
+ Padre 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+10: 0.001694915254237288
+ Padre 2
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+10: 0.0010695187165775401
+Cantidad es: 9 ... J es: 9
+daux: 8.0 ... rta: true
+daux: 6.0 ... rta: false
+Cantidad es: 10 ... J es: 1
+daux: 5.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 3.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 0.0 ... rta: true
+ Hijo 0
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+daux: 0.0 ... rta: true
+daux: 6.0 ... rta: false
+Cantidad es: 9 ... J es: 1
+daux: 5.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 8.0 ... rta: false
+Cantidad es: 10 ... J es: 5
+daux: 9.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 3.0 ... rta: true
+ Hijo 1
+  Mostrando un Individuo
+0: 6.0
+1: 8.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+  PuntoX: 1 ... PuntoY: 8
+ Padre 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+10: 0.001694915254237288
+ Padre 2
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+10: 0.0010695187165775401
+Cantidad es: 9 ... J es: 9
+daux: 8.0 ... rta: true
+daux: 6.0 ... rta: true
+daux: 5.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 3.0 ... rta: false
+Cantidad es: 10 ... J es: 5
+daux: 4.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 0.0 ... rta: true
+ Hijo 0
+  Mostrando un Individuo
+0: 3.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 0.0
+daux: 0.0 ... rta: false
+Cantidad es: 9 ... J es: 0
+daux: 6.0 ... rta: true
+daux: 5.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 8.0 ... rta: false
+Cantidad es: 10 ... J es: 5
+daux: 9.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 3.0 ... rta: true
+ Hijo 1
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+  PuntoX: 4 ... PuntoY: 5
+ Padre 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+10: 0.001694915254237288
+ Padre 2
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+10: 0.0010695187165775401
+Cantidad es: 3 ... J es: 5
+Cantidad es: 4 ... J es: 7
+Cantidad es: 5 ... J es: 8
+Cantidad es: 6 ... J es: 9
+daux: 8.0 ... rta: true
+daux: 6.0 ... rta: false
+Cantidad es: 7 ... J es: 1
+daux: 5.0 ... rta: false
+Cantidad es: 8 ... J es: 2
+daux: 2.0 ... rta: false
+Cantidad es: 9 ... J es: 3
+daux: 9.0 ... rta: false
+Cantidad es: 10 ... J es: 4
+daux: 3.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 0.0 ... rta: true
+ Hijo 0
+  Mostrando un Individuo
+0: 6.0
+1: 5.0
+2: 2.0
+3: 9.0
+4: 4.0
+5: 8.0
+6: 3.0
+7: 1.0
+8: 7.0
+9: 0.0
+Cantidad es: 3 ... J es: 5
+Cantidad es: 4 ... J es: 7
+Cantidad es: 5 ... J es: 8
+daux: 0.0 ... rta: false
+Cantidad es: 6 ... J es: 0
+daux: 6.0 ... rta: false
+Cantidad es: 7 ... J es: 1
+daux: 5.0 ... rta: false
+Cantidad es: 8 ... J es: 2
+daux: 1.0 ... rta: false
+Cantidad es: 9 ... J es: 3
+daux: 4.0 ... rta: false
+Cantidad es: 10 ... J es: 4
+daux: 8.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 3.0 ... rta: true
+ Hijo 1
+  Mostrando un Individuo
+0: 6.0
+1: 5.0
+2: 1.0
+3: 4.0
+4: 9.0
+5: 3.0
+6: 8.0
+7: 7.0
+8: 2.0
+9: 0.0
+  PuntoX: 2 ... PuntoY: 5
+ Padre 1
+  Mostrando un Individuo
+0: 0.0
+1: 6.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 9.0
+7: 7.0
+8: 2.0
+9: 3.0
+10: 0.001694915254237288
+ Padre 2
+  Mostrando un Individuo
+0: 8.0
+1: 6.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 4.0
+7: 1.0
+8: 7.0
+9: 0.0
+10: 0.0010695187165775401
+Cantidad es: 5 ... J es: 5
+Cantidad es: 6 ... J es: 8
+Cantidad es: 7 ... J es: 9
+daux: 8.0 ... rta: true
+daux: 6.0 ... rta: false
+Cantidad es: 8 ... J es: 1
+daux: 5.0 ... rta: true
+daux: 2.0 ... rta: false
+Cantidad es: 9 ... J es: 3
+daux: 9.0 ... rta: false
+Cantidad es: 10 ... J es: 4
+daux: 3.0 ... rta: true
+daux: 4.0 ... rta: true
+daux: 1.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 0.0 ... rta: true
+ Hijo 0
+  Mostrando un Individuo
+0: 2.0
+1: 9.0
+2: 5.0
+3: 1.0
+4: 4.0
+5: 8.0
+6: 3.0
+7: 7.0
+8: 0.0
+9: 6.0
+Cantidad es: 5 ... J es: 5
+Cantidad es: 6 ... J es: 7
+daux: 0.0 ... rta: false
+Cantidad es: 7 ... J es: 0
+daux: 6.0 ... rta: false
+Cantidad es: 8 ... J es: 1
+daux: 5.0 ... rta: true
+daux: 1.0 ... rta: false
+Cantidad es: 9 ... J es: 3
+daux: 4.0 ... rta: false
+Cantidad es: 10 ... J es: 4
+daux: 8.0 ... rta: true
+daux: 9.0 ... rta: true
+daux: 7.0 ... rta: true
+daux: 2.0 ... rta: true
+daux: 3.0 ... rta: true
+ Hijo 1
+  Mostrando un Individuo
+0: 1.0
+1: 4.0
+2: 5.0
+3: 2.0
+4: 9.0
+5: 3.0
+6: 8.0
+7: 7.0
+8: 0.0
+9: 6.0
