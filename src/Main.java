@@ -1,10 +1,7 @@
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
-import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -489,7 +486,7 @@ public class Main {
     public static void main(String[] args) throws IOException { 
         FileChooser file = new FileChooser();
         String dir = file.run();
-        Archivo.getInstance().read2(dir);
+        Archivo.getInstance().read(dir);
 
         ArrayList<ArrayList<Double>> poblacion = new ArrayList<>(); //Representacion de la poblacion actual de individuos
         double sol;
