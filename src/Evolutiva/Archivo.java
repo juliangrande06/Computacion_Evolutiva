@@ -1,4 +1,7 @@
+package Evolutiva;
 import java.io.*;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 public class Archivo {
 	private static Archivo archivo;
@@ -14,24 +17,50 @@ public class Archivo {
         try {
             FileReader fr = new FileReader(arch);  
 		    BufferedReader br= new BufferedReader(fr);
-			String linea = br.readLine(); //Primera linea nos dice longitud de la matriz
-			int longitud = Integer.parseInt(linea);
+			int longitud=0;
+			String linea = br.readLine(); //Leo primera linea del archivo
+			String[] cabecera = linea.split(": ");
+
+			while(!cabecera[0].equals("DIMENSION")){
+				linea = br.readLine();
+				cabecera = linea.split(": ");
+			}
+
+			if(cabecera[0].equals("DIMENSION")){
+				cabecera = cabecera[1].split(" ");
+				for(int i=0; i<cabecera.length; i++){
+					if(!cabecera[i].equals(" ") && !cabecera[i].equals("")){
+						longitud = Integer.parseInt(cabecera[i]);
+						Main.N= longitud;
+					}
+				}
+			}
+
+			while(!cabecera[0].equals("EDGE_WEIGHT_SECTION")){
+				linea = br.readLine();
+				cabecera = linea.split(": ");
+			}
+
 			Main.matrizCaminoEntreCiudades = new Double[longitud][longitud];
 			
 			linea = br.readLine(); //Las siguientes lineas son filas de la matriz
 			int fila = 0;
-			while(linea != null) {
+			while(linea != null && !linea.equals("EOF")) {
 				String[] enteros = linea.split(" ");
-				
+
+				int j=0;
                 for (int i = 0; i < enteros.length; i++){
-					Main.matrizCaminoEntreCiudades[fila][i] = Double.parseDouble(enteros[i]);
+					if(!enteros[i].equals(" ") && !enteros[i].equals("")){
+						Main.matrizCaminoEntreCiudades[fila][j] = Double.parseDouble(enteros[i]);
+						j++;
+					}
                 }
 				
                 fila++;
 				linea = br.readLine(); //Leemos siguiente línea
 			}
 			br.close(); //Cierro el lector de ficheros
- /*
+/*
 			//Muesta la matriz leída
 			for (int i = 0; i < longitud; i++) {
 				for (int j = 0; j < longitud; j++)
@@ -51,8 +80,10 @@ public class Archivo {
 		}
 	}
 
-	public void write(String codigo) throws IOException {
-		File file = new File("salida.txt");
+	public void write(String codigo, String name) throws IOException {
+		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy_MM_dd_HH_mm_ss");
+
+		File file = new File(name+"_salida_"+dtf.format(LocalDateTime.now())+".txt");
 		BufferedWriter writer = null;
 		try {
 			writer = new BufferedWriter(new FileWriter(file));

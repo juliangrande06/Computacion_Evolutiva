@@ -1,3 +1,4 @@
+package Evolutiva;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.stream.DoubleStream;
@@ -7,8 +8,8 @@ import java.util.Scanner;
 
 public class Main {
     static int GN= 1000;                //Cantidad de Generaciones
-    static final int N= 10;             //Cantidad de ciudades
-    static int POB= 500;                //Cantidad de individuos de la poblacion
+    static int N= 10;                   //Cantidad de ciudades
+    static int POB=1000;                //Cantidad de individuos de la poblacion
     static Double PC= 0.9;              //Probabilidad de Cruce
     static Double PM= 0.3;              //Probabilidad de Mutacion
     static int TR= 10;                  //Cantidad de individuos por Torneo
@@ -68,9 +69,15 @@ public class Main {
     }
 
     public static void mostrarIndividuo(ArrayList<Double> individuo){
-        salida.append("\n  Mostrando un Individuo");
+        salida.append("\n  Camino Planteado");
         for(int i=0; i<individuo.size(); i++){
-            salida.append("\n"+i+": "+individuo.get(i));
+            if(i < individuo.size()-1){
+                aux= individuo.get(i).intValue();
+                salida.append("\n"+i+": Ciudad "+ aux);
+            }
+            else{
+                salida.append("\n"+i+": Ciudad "+ individuo.get(0).intValue());
+            }
         }
         
 /*  
@@ -467,18 +474,32 @@ public class Main {
 
     public static void menuInicio(){
         Scanner lectura = new Scanner (System.in);
+        salida.append("Cantidad de Ciudades (N): "+N+" \n");
+
         System.out.println("Cantidad de Generaciones (GN): ");
         GN= lectura.nextInt();
+        salida.append("Cantidad de Generaciones (GN): "+GN+" \n");
+        
         System.out.println("Cantidad de Individuos de la Poblacion (POB): ");
         POB= lectura.nextInt();
+        salida.append("Cantidad de Individuos de la Poblacion (POB): "+POB+" \n");
+        
         System.out.println("Probabilidad de Cruce (PC) ~ Double con coma: ");
         PC= lectura.nextDouble();
+        salida.append("Probabilidad de Cruce (PC) ~ Double con coma: "+PC+" \n");
+
         System.out.println("Probabilidad de Mutacion (PM) ~ Double con coma: ");
         PM= lectura.nextDouble();
+        salida.append("Probabilidad de Mutacion (PM) ~ Double con coma: "+PM+" \n");
+
         System.out.println("Cantidad de Individuos por Torneo (TR): ");
         TR= lectura.nextInt();
+        salida.append("Cantidad de Individuos por Torneo (TR): "+TR+" \n");
+        
         System.out.println("Cantidad de Individuos para Steady-State (ST): ");
         ST= lectura.nextInt();
+        salida.append("Cantidad de Individuos para Steady-State (ST): "+ST+" \n");
+
         lectura.close();
         //System.out.println(GN+" "+POB+" "+PC+" "+PM+" "+TR+" "+ST);
     }
@@ -487,6 +508,8 @@ public class Main {
         FileChooser file = new FileChooser();
         String dir = file.run();
         Archivo.getInstance().read(dir);
+        String[] saux= dir.split("/");
+        salida.append("Archivo: "+saux[saux.length-1]+"\n");
 
         ArrayList<ArrayList<Double>> poblacion = new ArrayList<>(); //Representacion de la poblacion actual de individuos
         double sol;
@@ -517,7 +540,7 @@ public class Main {
         salida.append("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
         //System.out.println("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
 
-        Archivo.getInstance().write(salida.toString());
+        Archivo.getInstance().write(salida.toString(), saux[saux.length-1]);
 
     }
 }
