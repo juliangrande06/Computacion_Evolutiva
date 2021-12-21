@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
     static int GN= 1;                //Cantidad de Generaciones
     static int N= 10;                   //Cantidad de ciudades
-    static int POB= 10;                //Cantidad de individuos de la poblacion 1000
+    static int POB= 1000;                //Cantidad de individuos de la poblacion 1000
     static Double PC= 0.9;              //Probabilidad de Cruce
     static Double PM= 0.3;              //Probabilidad de Mutacion
     static int TR= 4;                  //Cantidad de individuos por Torneo
@@ -23,34 +23,13 @@ public class Main {
     static StringBuilder salida = new StringBuilder();
     public static Double matrizCaminoEntreCiudades[][];
 
-/*
-    private static Double matrizCaminoEntreCiudades[][] = { //Entrada
-        //Ciudad 0
-        {0.0, 20.0, 15.0, 30.0, 25.0, 40.0, 30.0, 60.0, 50.0, 95.0},
-        //Ciudad 1
-        {20.0, 0.0, 30.0, 20.0, 15.0, 15.0, 20.0, 40.0, 40.0, 30.0},
-        //Ciudad 2
-        {15.0, 30.0, 0.0, 25.0, 30.0, 20.0, 30.0, 40.0, 45.0, 50.0},
-        //Ciudad 3
-        {30.0, 20.0, 25.0, 0.0, 20.0, 30.0, 10.0, 50.0, 40.0, 30.0},
-        //Ciudad 4
-        {25.0, 15.0, 30.0, 20.0, 0.0, 10.0, 20.0, 20.0, 30.0, 40.0},
-        //Ciudad 5
-        {40.0, 15.0, 20.0, 30.0, 10.0, 0.0, 20.0, 30.0, 20.0, 30.0},
-        //Ciudad 6
-        {30.0, 20.0, 30.0, 10.0, 20.0, 20.0, 0.0, 25.0, 40.0, 30.0},
-        //Ciudad 7
-        {60.0, 40.0, 40.0, 50.0, 20.0, 30.0, 35.0, 0.0, 30.0, 15.0},
-        //Ciudad 8
-        {50.0, 40.0, 45.0, 40.0, 30.0, 20.0, 40.0, 30.0, 0.0, 20.0},
-        //Ciudad 9
-        {95.0, 30.0, 50.0, 30.0, 40.0, 30.0, 30.0, 15.0, 20.0, 0.0}
-    };
-*/
+    static int eleccionCruce= 0;
+    static int eleccionMutacion= 0;
+    
 
     public static void fitness(ArrayList<ArrayList<Double>> poblacion){
         Double costo=0.0;
-        System.out.println("   Funcion de Fitness");
+        //System.out.println("   Funcion de Fitness");
 
         for(int j=0; j<POB; j++){
             ArrayList<Double> individuo = poblacion.get(j);
@@ -108,7 +87,7 @@ public class Main {
         for(int i = 0; i < N; i++){
             numeros[i]= i;
         }
-        System.out.println("   Inicializacion Aleatoria");
+        //System.out.println("   Inicializacion Aleatoria");
 
         for(int j=0; j<POB; j++){
             individuo = new ArrayList<>();
@@ -139,7 +118,7 @@ public class Main {
         int padre2 = -1;
         double max2 = 0.0;
         
-        System.out.println("   Seleccion de Padres");
+        //System.out.println("   Seleccion de Padres");
 
         for(int j=0; j<CTR; j++){
             daux= Math.random();
@@ -338,31 +317,46 @@ public class Main {
     }
 
     private static void inicIndividuo(ArrayList<Double> individuo){
-        for(int i= 0; i < N; i++){
-            individuo.add(-1.0);
+        if(individuo.size() >= N){
+            for(int i= 0; i < N; i++){
+                individuo.set(i,-1.0);
+            }
+        }
+        else{
+            for(int i= 0; i < N; i++){
+                individuo.add(-1.0);
+            }
         }
     }
 
     private static void inicPadres(ArrayList<Double> p1, ArrayList<Double> p2){
-        p1.add(0.0);
+        p1.add(5.0);
         p1.add(1.0);
         p1.add(2.0);
-        p1.add(3.0);
-        p1.add(4.0);
-        p1.add(5.0);
-        p1.add(6.0);
         p1.add(7.0);
         p1.add(8.0);
+        p1.add(6.0);
+        p1.add(0.0);
+        p1.add(3.0);
+        p1.add(4.0);
+        p1.add(9.0);
         
         p2.add(8.0);
+        p2.add(3.0);
+        p2.add(0.0);
+        p2.add(7.0);
         p2.add(2.0);
         p2.add(6.0);
-        p2.add(7.0);
         p2.add(1.0);
         p2.add(5.0);
-        p2.add(4.1);
-        p2.add(0.0);
-        p2.add(3.0);
+        p2.add(4.0);
+        p2.add(9.0);
+    }
+
+    private static void inicCiclos(double[] ciclos){
+        for(int i=0; i<ciclos.length; i++){
+            ciclos[i]= -1.0;
+        }
     }
 
     public static void cruceBasadoEnCiclos(ArrayList<ArrayList<Double>> poblacion){
@@ -370,50 +364,46 @@ public class Main {
         ArrayList<Double> padre2 = new ArrayList<>();
         ArrayList<Double> individuo= new ArrayList<>();
         ArrayList<Double> individuo2= new ArrayList<>();
-        inicIndividuo(individuo);
-        inicIndividuo(individuo2);
-        //inicPadres(padre1, padre2);
-        double[] ciclos;
+        double[] ciclos= new double[N];
         boolean rta= false;
         int pos= 0;
         int icant= 0;
-
-        System.out.println("   Cruce Basado en Ciclos");
+        //System.out.println("   Cruce Basado en Ciclos");
         for(int i=0; i<padres.size();i=i+2){
-            ciclos= new double[N];
+            inicCiclos(ciclos);
+            inicIndividuo(individuo);
+            inicIndividuo(individuo2);
             rta= false;
             pos= 0;
+            aux=0;
             icant= 0;
             padre1= poblacion.get(padres.get(i));
             padre2= poblacion.get(padres.get(i+1));
-            mostrarIndividuo(padre1);
-            mostrarIndividuo(padre2);
             
-            while(icant < N){// 0< 10
-                ciclos[pos]= padre1.get(pos); //9
-                icant++; //1
-                individuo.set(pos, ciclos[pos]); // 9
-                daux= padre2.get(pos); //4
-                rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux); //false
+            while(icant < N){
+                ciclos[aux]= padre1.get(pos);
+                icant++;
+                individuo.set(pos, ciclos[aux]);
+                daux= padre2.get(pos);
                 
-                for(int j=1; j<N; j++){ //j=2 < 10
-                    individuo2.set(pos, daux); // 4 -1-1-1 8 -1-1-1-1-1
-                    pos= (int)daux; //8
-                    daux= padre1.get(pos); //5
+                for(int j=1; j<N; j++){
+                    individuo2.set(pos, daux);
+                    pos= padre1.indexOf(daux);
+                    rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux);
                     
-                    if(!rta){ //true
-                        ciclos[j]= daux;//9 6 5
-                        icant++; //3
-                        individuo.set(pos, daux);// 9 -1-1-1 6 -1-1-1 5 -1
-                        daux= padre2.get(pos);// 3
-                        rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux); //false
+                    if(!rta){
+                        ciclos[icant]= daux;
+                        icant++;
+                        individuo.set(pos, daux);
+                        daux= padre2.get(pos);
                     }
                     else{
+                        aux= icant;
                         j= N;
                     }
                 }
                 
-                for(int j=1; j<N; j++){
+                for(int j=0; j<N; j++){
                     daux= padre2.get(j);
                     rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux);
 
@@ -422,36 +412,45 @@ public class Main {
                         j= N;
                     }
                 }
-
-                ciclos[pos]= padre2.get(pos);
-                icant++;
-                individuo.set(pos, ciclos[pos]);
-                daux= padre1.get(pos);
-                rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux);
-                
-                for(int j=1; j<N; j= j+2){
-                    individuo2.set(pos, daux);
-                    pos= (int)daux;
-                    daux= padre2.get(pos);
+                if(icant < N){
+                    ciclos[aux]= padre2.get(pos);
+                    icant++;
+                    individuo.set(pos, ciclos[aux]);
+                    daux= padre1.get(pos);
                     
-                    if(!rta){
-                        ciclos[j]= daux;
-                        icant++;
-                        individuo.set(pos, daux);
-                        pos= (int)daux;
-                        daux= padre1.get(pos);
+                    for(int j=icant; j<=N; j++){
+                        individuo2.set(pos, daux);
+                        pos= padre2.indexOf(daux);
                         rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux);
+                        
+                        if(!rta){
+                            ciclos[icant]= daux;
+                            icant++;
+                            individuo.set(pos, daux);
+                            daux= padre1.get(pos);
+                        }
+                        else{
+                            aux= icant;
+                            j= N+1;
+                        }
                     }
-                    else{
-                        j= N;
+
+                    if(icant < N){
+                        for(int j=0; j<N; j++){
+                            daux= padre1.get(j);
+                            rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux);
+        
+                            if(!rta){
+                                pos= j;
+                                j= N;
+                            }
+                        }
                     }
                 }
             }
-            mostrarIndividuo(individuo);
-            mostrarIndividuo(individuo2);
+            hijos.add(individuo);
+            hijos.add(individuo2);
         }
-        hijos.add(individuo);
-        hijos.add(individuo2);
     }
 
     public static void mutacionPorInsercion(){
@@ -497,6 +496,36 @@ public class Main {
                 }
 
                 //System.out.println(" Mostrando luego de la Mutacion");
+                //mostrarIndividuo(hijos.get(i));
+            }
+        }
+    }
+
+    public static void mutacionPorInversion(){
+        int puntoX;
+        int puntoY;
+        int diferencia;
+
+        //System.out.println("   Mutacion por Inversion");
+        for(int i=0; i<hijos.size(); i++){
+            daux= Math.random();
+            
+            if(daux <= PM){ //Factor que determina si el hijo sera mutado
+                puntoX= (int) (N * Math.random()); //Elijo PuntoX al azar
+                puntoY= (int) (N * Math.random()); //Elijo distancia desde el PuntoX
+        
+                if(puntoX > puntoY){
+                    diferencia= puntoX;
+                    puntoX= puntoY;
+                    puntoY= diferencia;
+                }
+                //System.out.println("  PuntoX: "+puntoX+" ... PuntoY: "+puntoY);
+                //mostrarIndividuo(hijos.get(i));
+                for(puntoX= puntoX; puntoX<puntoY; puntoX++,puntoY--){
+                    daux= hijos.get(i).get(puntoX);
+                    hijos.get(i).set(puntoX, hijos.get(i).get(puntoY));
+                    hijos.get(i).set(puntoY, daux);
+                }
                 //mostrarIndividuo(hijos.get(i));
             }
         }
@@ -601,13 +630,49 @@ public class Main {
         POB= lectura.nextInt();
         salida.append("Cantidad de Individuos de la Poblacion (POB): "+POB+" \n");
         
-        System.out.println("Probabilidad de Cruce (PC) ~ Double con coma: ");
-        PC= lectura.nextDouble();
-        salida.append("Probabilidad de Cruce (PC) ~ Double con coma: "+PC+" \n");
+        while(eleccionCruce != 1 && eleccionCruce != 2){
+            System.out.println("Cruce en Orden (1) o Cruce basado en Ciclos (2): ");
+            eleccionCruce= lectura.nextInt();
 
-        System.out.println("Probabilidad de Mutacion (PM) ~ Double con coma: ");
-        PM= lectura.nextDouble();
-        salida.append("Probabilidad de Mutacion (PM) ~ Double con coma: "+PM+" \n");
+            if(eleccionCruce != 1 && eleccionCruce != 2){
+                System.out.println("Opcion no valida");
+            }
+            else{
+                System.out.println("Probabilidad de Cruce (PC) ~ Double con coma: ");
+                PC= lectura.nextDouble();
+                
+                switch(eleccionCruce){
+                    case(1):
+                        salida.append("Cruce en Orden con (PC): "+PC+" \n");
+                        break;
+                    case(2):
+                        salida.append("Cruce basado en Ciclos con (PC): "+PC+" \n");
+                        break;
+                }
+            }
+        }
+
+        while(eleccionMutacion != 1 && eleccionMutacion != 2){
+            System.out.println("Mutacion por Insercion (1) o Mutacion por Inversion (2): ");
+            eleccionMutacion= lectura.nextInt();
+
+            if(eleccionMutacion != 1 && eleccionMutacion != 2){
+                System.out.println("Opcion no valida");
+            }
+            else{
+                System.out.println("Probabilidad de Mutacion (PM) ~ Double con coma: ");
+                PM= lectura.nextDouble();
+                
+                switch(eleccionMutacion){
+                    case(1):
+                        salida.append("Mutacion por Insercion con (PM): "+PM+" \n");
+                        break;
+                    case(2):
+                        salida.append("Mutacion por Inversion con (PM): "+PM+" \n");
+                        break;
+                }
+            }
+        }
 
         System.out.println("Cantidad de Individuos por Torneo (TR): ");
         TR= lectura.nextInt();
@@ -630,18 +695,30 @@ public class Main {
 
         ArrayList<ArrayList<Double>> poblacion = new ArrayList<>(); //Representacion de la poblacion actual de individuos
         double sol;
-        //menuInicio();
+        menuInicio();
         long startTime = System.currentTimeMillis();
         inicializacionAleatoria(poblacion);
         fitness(poblacion);
         
         for(int i=0; i<GN; i++){
-            System.out.println("------- Generacion "+i+" -------");
-            //salida.append("\n ------- Generacion "+i+" -------");
+            //System.out.println("------- Generacion "+i+" -------");
+            salida.append("\n ------- Generacion "+i+" -------");
             seleccionPadres(poblacion);
-            cruceBasadoEnCiclos(poblacion);
-            /*cruceEnOrden(poblacion);
-            mutacionPorInsercion();
+            
+            if(eleccionCruce == 1){
+                cruceEnOrden(poblacion);
+            }
+            else{
+                cruceBasadoEnCiclos(poblacion);
+            }
+
+            if(eleccionMutacion == 1){
+                mutacionPorInsercion();
+            }
+            else{
+                mutacionPorInversion();
+            }
+
             fitness(hijos);
             seleccionPadres(poblacion);
             sobrevivientesStady_State(poblacion);
@@ -650,16 +727,16 @@ public class Main {
             quickSort(poblacion, 0, POB-1);
             sol= 1/poblacion.get(POB-1).get(N);
             salida.append("\n *** Mejor Solucion: "+ sol+"\n");
-            //System.out.println("\n *** Mejor Solucion: "+ sol);*/
+            //System.out.println("\n *** Mejor Solucion: "+ sol);
         }
-/*
+
         long endTime = System.currentTimeMillis();
-        mostrarIndividuo(poblacion.get(POB-1));
+        //mostrarIndividuo(poblacion.get(POB-1));
         salida.append("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
         //System.out.println("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
 
         Archivo.getInstance().write(salida.toString(), saux[saux.length-1]);
-*/
+
     }
 }
 
@@ -668,13 +745,4 @@ Consultas:
 * La probabilidad de cruce va en la seleccion de padres o en el algoritmo de cruce?
     Si va en el algoritmo de cruce no voy a generar 100 hijos, sino menos.
     Si va en la seleccion de padres puede que ese torneo se descarte por antidoping (elegi este)
-
-Cosas por hacer:
-* Crear interfaz de menu para solicitar los valores de las variables generales (hecho)
-* Guardar la info en un archivo (hecho)
-* Llevar un cronometro de tiempo de ejecucion (hecho)
-* Leer valores de costos desde archivo externo (hecho)
-* Crear ejecutable
-* README
-* Implementar otros algoritmos?
 */

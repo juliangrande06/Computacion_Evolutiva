@@ -1,5 +1,5 @@
 # Ignora todos los archivos de texto
-*.txt
+#*.txt
 
 # Ignora todos los archivos class
 *.class
