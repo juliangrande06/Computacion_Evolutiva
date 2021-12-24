@@ -1,0 +1,9011 @@
+Archivo: br17.atsp
+Cantidad de Ciudades (N): 17 
+Cantidad de Generaciones (GN): 3000 
+Cantidad de Individuos de la Poblacion (POB): 300 
+Cruce basado en Ciclos con (PC): 0.9 
+Mutacion por Inversion con (PM): 0.2 
+Cantidad de Individuos por Torneo (TR): 7 
+Cantidad de Individuos para Steady-State (ST): 3 
+
+ ------- Generacion 0 -------
+ *** Mejor Solucion: 251.0
+
+ ------- Generacion 1 -------
+ *** Mejor Solucion: 251.0
+
+ ------- Generacion 2 -------
+ *** Mejor Solucion: 170.0
+
+ ------- Generacion 3 -------
+ *** Mejor Solucion: 170.0
+
+ ------- Generacion 4 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 5 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 6 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 7 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 8 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 9 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 10 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 11 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 12 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 13 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 14 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 15 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 16 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 17 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 18 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 19 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 20 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 21 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 22 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 23 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 24 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 25 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 26 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 27 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 28 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 29 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 30 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 31 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 32 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 33 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 34 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 35 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 36 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 37 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 38 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 39 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 40 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 41 -------
+ *** Mejor Solucion: 165.0
+
+ ------- Generacion 42 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 43 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 44 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 45 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 46 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 47 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 48 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 49 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 50 -------
+ *** Mejor Solucion: 139.0
+
+ ------- Generacion 51 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 52 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 53 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 54 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 55 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 56 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 57 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 58 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 59 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 60 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 61 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 62 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 63 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 64 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 65 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 66 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 67 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 68 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 69 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 70 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 71 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 72 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 73 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 74 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 75 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 76 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 77 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 78 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 79 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 80 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 81 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 82 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 83 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 84 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 85 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 86 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 87 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 88 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 89 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 90 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 91 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 92 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 93 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 94 -------
+ *** Mejor Solucion: 131.0
+
+ ------- Generacion 95 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 96 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 97 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 98 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 99 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 100 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 101 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 102 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 103 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 104 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 105 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 106 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 107 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 108 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 109 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 110 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 111 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 112 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 113 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 114 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 115 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 116 -------
+ *** Mejor Solucion: 108.0
+
+ ------- Generacion 117 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 118 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 119 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 120 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 121 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 122 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 123 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 124 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 125 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 126 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 127 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 128 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 129 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 130 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 131 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 132 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 133 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 134 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 135 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 136 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 137 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 138 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 139 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 140 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 141 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 142 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 143 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 144 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 145 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 146 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 147 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 148 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 149 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 150 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 151 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 152 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 153 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 154 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 155 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 156 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 157 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 158 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 159 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 160 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 161 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 162 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 163 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 164 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 165 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 166 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 167 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 168 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 169 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 170 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 171 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 172 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 173 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 174 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 175 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 176 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 177 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 178 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 179 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 180 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 181 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 182 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 183 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 184 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 185 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 186 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 187 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 188 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 189 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 190 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 191 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 192 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 193 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 194 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 195 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 196 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 197 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 198 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 199 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 200 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 201 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 202 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 203 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 204 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 205 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 206 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 207 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 208 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 209 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 210 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 211 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 212 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 213 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 214 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 215 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 216 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 217 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 218 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 219 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 220 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 221 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 222 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 223 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 224 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 225 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 226 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 227 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 228 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 229 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 230 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 231 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 232 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 233 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 234 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 235 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 236 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 237 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 238 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 239 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 240 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 241 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 242 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 243 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 244 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 245 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 246 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 247 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 248 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 249 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 250 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 251 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 252 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 253 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 254 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 255 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 256 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 257 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 258 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 259 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 260 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 261 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 262 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 263 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 264 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 265 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 266 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 267 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 268 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 269 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 270 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 271 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 272 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 273 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 274 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 275 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 276 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 277 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 278 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 279 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 280 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 281 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 282 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 283 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 284 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 285 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 286 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 287 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 288 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 289 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 290 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 291 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 292 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 293 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 294 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 295 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 296 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 297 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 298 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 299 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 300 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 301 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 302 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 303 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 304 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 305 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 306 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 307 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 308 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 309 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 310 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 311 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 312 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 313 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 314 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 315 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 316 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 317 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 318 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 319 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 320 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 321 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 322 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 323 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 324 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 325 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 326 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 327 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 328 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 329 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 330 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 331 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 332 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 333 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 334 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 335 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 336 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 337 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 338 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 339 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 340 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 341 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 342 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 343 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 344 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 345 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 346 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 347 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 348 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 349 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 350 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 351 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 352 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 353 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 354 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 355 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 356 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 357 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 358 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 359 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 360 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 361 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 362 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 363 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 364 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 365 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 366 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 367 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 368 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 369 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 370 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 371 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 372 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 373 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 374 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 375 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 376 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 377 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 378 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 379 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 380 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 381 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 382 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 383 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 384 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 385 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 386 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 387 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 388 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 389 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 390 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 391 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 392 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 393 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 394 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 395 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 396 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 397 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 398 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 399 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 400 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 401 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 402 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 403 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 404 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 405 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 406 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 407 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 408 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 409 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 410 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 411 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 412 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 413 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 414 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 415 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 416 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 417 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 418 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 419 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 420 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 421 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 422 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 423 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 424 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 425 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 426 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 427 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 428 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 429 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 430 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 431 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 432 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 433 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 434 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 435 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 436 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 437 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 438 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 439 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 440 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 441 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 442 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 443 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 444 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 445 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 446 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 447 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 448 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 449 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 450 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 451 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 452 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 453 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 454 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 455 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 456 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 457 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 458 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 459 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 460 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 461 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 462 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 463 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 464 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 465 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 466 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 467 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 468 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 469 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 470 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 471 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 472 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 473 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 474 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 475 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 476 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 477 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 478 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 479 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 480 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 481 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 482 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 483 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 484 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 485 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 486 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 487 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 488 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 489 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 490 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 491 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 492 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 493 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 494 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 495 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 496 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 497 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 498 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 499 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 500 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 501 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 502 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 503 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 504 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 505 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 506 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 507 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 508 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 509 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 510 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 511 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 512 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 513 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 514 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 515 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 516 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 517 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 518 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 519 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 520 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 521 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 522 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 523 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 524 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 525 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 526 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 527 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 528 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 529 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 530 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 531 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 532 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 533 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 534 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 535 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 536 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 537 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 538 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 539 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 540 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 541 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 542 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 543 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 544 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 545 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 546 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 547 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 548 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 549 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 550 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 551 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 552 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 553 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 554 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 555 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 556 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 557 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 558 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 559 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 560 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 561 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 562 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 563 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 564 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 565 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 566 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 567 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 568 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 569 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 570 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 571 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 572 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 573 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 574 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 575 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 576 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 577 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 578 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 579 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 580 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 581 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 582 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 583 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 584 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 585 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 586 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 587 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 588 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 589 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 590 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 591 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 592 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 593 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 594 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 595 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 596 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 597 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 598 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 599 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 600 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 601 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 602 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 603 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 604 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 605 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 606 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 607 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 608 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 609 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 610 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 611 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 612 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 613 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 614 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 615 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 616 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 617 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 618 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 619 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 620 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 621 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 622 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 623 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 624 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 625 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 626 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 627 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 628 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 629 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 630 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 631 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 632 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 633 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 634 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 635 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 636 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 637 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 638 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 639 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 640 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 641 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 642 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 643 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 644 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 645 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 646 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 647 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 648 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 649 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 650 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 651 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 652 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 653 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 654 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 655 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 656 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 657 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 658 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 659 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 660 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 661 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 662 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 663 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 664 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 665 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 666 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 667 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 668 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 669 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 670 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 671 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 672 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 673 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 674 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 675 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 676 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 677 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 678 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 679 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 680 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 681 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 682 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 683 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 684 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 685 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 686 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 687 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 688 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 689 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 690 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 691 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 692 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 693 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 694 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 695 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 696 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 697 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 698 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 699 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 700 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 701 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 702 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 703 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 704 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 705 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 706 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 707 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 708 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 709 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 710 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 711 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 712 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 713 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 714 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 715 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 716 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 717 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 718 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 719 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 720 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 721 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 722 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 723 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 724 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 725 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 726 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 727 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 728 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 729 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 730 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 731 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 732 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 733 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 734 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 735 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 736 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 737 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 738 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 739 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 740 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 741 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 742 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 743 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 744 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 745 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 746 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 747 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 748 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 749 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 750 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 751 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 752 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 753 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 754 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 755 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 756 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 757 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 758 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 759 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 760 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 761 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 762 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 763 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 764 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 765 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 766 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 767 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 768 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 769 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 770 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 771 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 772 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 773 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 774 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 775 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 776 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 777 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 778 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 779 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 780 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 781 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 782 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 783 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 784 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 785 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 786 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 787 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 788 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 789 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 790 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 791 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 792 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 793 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 794 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 795 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 796 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 797 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 798 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 799 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 800 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 801 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 802 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 803 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 804 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 805 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 806 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 807 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 808 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 809 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 810 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 811 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 812 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 813 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 814 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 815 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 816 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 817 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 818 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 819 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 820 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 821 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 822 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 823 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 824 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 825 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 826 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 827 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 828 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 829 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 830 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 831 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 832 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 833 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 834 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 835 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 836 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 837 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 838 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 839 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 840 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 841 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 842 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 843 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 844 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 845 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 846 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 847 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 848 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 849 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 850 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 851 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 852 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 853 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 854 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 855 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 856 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 857 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 858 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 859 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 860 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 861 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 862 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 863 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 864 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 865 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 866 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 867 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 868 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 869 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 870 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 871 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 872 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 873 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 874 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 875 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 876 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 877 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 878 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 879 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 880 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 881 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 882 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 883 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 884 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 885 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 886 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 887 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 888 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 889 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 890 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 891 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 892 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 893 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 894 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 895 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 896 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 897 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 898 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 899 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 900 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 901 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 902 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 903 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 904 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 905 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 906 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 907 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 908 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 909 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 910 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 911 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 912 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 913 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 914 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 915 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 916 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 917 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 918 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 919 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 920 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 921 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 922 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 923 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 924 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 925 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 926 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 927 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 928 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 929 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 930 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 931 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 932 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 933 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 934 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 935 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 936 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 937 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 938 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 939 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 940 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 941 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 942 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 943 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 944 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 945 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 946 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 947 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 948 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 949 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 950 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 951 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 952 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 953 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 954 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 955 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 956 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 957 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 958 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 959 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 960 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 961 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 962 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 963 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 964 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 965 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 966 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 967 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 968 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 969 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 970 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 971 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 972 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 973 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 974 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 975 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 976 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 977 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 978 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 979 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 980 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 981 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 982 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 983 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 984 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 985 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 986 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 987 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 988 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 989 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 990 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 991 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 992 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 993 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 994 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 995 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 996 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 997 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 998 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 999 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1000 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1001 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1002 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1003 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1004 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1005 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1006 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1007 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1008 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1009 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1010 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1011 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1012 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1013 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1014 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1015 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1016 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1017 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1018 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1019 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1020 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1021 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1022 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1023 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1024 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1025 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1026 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1027 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1028 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1029 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1030 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1031 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1032 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1033 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1034 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1035 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1036 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1037 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1038 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1039 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1040 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1041 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1042 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1043 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1044 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1045 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1046 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1047 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1048 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1049 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1050 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1051 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1052 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1053 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1054 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1055 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1056 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1057 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1058 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1059 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1060 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1061 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1062 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1063 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1064 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1065 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1066 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1067 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1068 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1069 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1070 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1071 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1072 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1073 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1074 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1075 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1076 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1077 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1078 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1079 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1080 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1081 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1082 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1083 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1084 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1085 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1086 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1087 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1088 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1089 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1090 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1091 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1092 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1093 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1094 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1095 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1096 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1097 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1098 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1099 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1100 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1101 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1102 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1103 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1104 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1105 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1106 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1107 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1108 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1109 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1110 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1111 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1112 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1113 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1114 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1115 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1116 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1117 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1118 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1119 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1120 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1121 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1122 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1123 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1124 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1125 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1126 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1127 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1128 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1129 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1130 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1131 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1132 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1133 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1134 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1135 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1136 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1137 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1138 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1139 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1140 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1141 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1142 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1143 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1144 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1145 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1146 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1147 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1148 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1149 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1150 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1151 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1152 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1153 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1154 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1155 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1156 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1157 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1158 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1159 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1160 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1161 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1162 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1163 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1164 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1165 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1166 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1167 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1168 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1169 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1170 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1171 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1172 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1173 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1174 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1175 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1176 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1177 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1178 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1179 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1180 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1181 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1182 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1183 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1184 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1185 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1186 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1187 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1188 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1189 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1190 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1191 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1192 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1193 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1194 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1195 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1196 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1197 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1198 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1199 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1200 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1201 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1202 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1203 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1204 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1205 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1206 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1207 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1208 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1209 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1210 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1211 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1212 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1213 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1214 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1215 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1216 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1217 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1218 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1219 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1220 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1221 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1222 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1223 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1224 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1225 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1226 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1227 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1228 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1229 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1230 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1231 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1232 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1233 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1234 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1235 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1236 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1237 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1238 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1239 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1240 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1241 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1242 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1243 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1244 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1245 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1246 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1247 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1248 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1249 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1250 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1251 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1252 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1253 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1254 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1255 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1256 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1257 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1258 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1259 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1260 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1261 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1262 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1263 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1264 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1265 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1266 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1267 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1268 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1269 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1270 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1271 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1272 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1273 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1274 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1275 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1276 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1277 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1278 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1279 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1280 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1281 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1282 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1283 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1284 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1285 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1286 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1287 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1288 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1289 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1290 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1291 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1292 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1293 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1294 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1295 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1296 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1297 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1298 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1299 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1300 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1301 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1302 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1303 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1304 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1305 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1306 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1307 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1308 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1309 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1310 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1311 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1312 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1313 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1314 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1315 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1316 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1317 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1318 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1319 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1320 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1321 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1322 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1323 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1324 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1325 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1326 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1327 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1328 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1329 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1330 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1331 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1332 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1333 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1334 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1335 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1336 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1337 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1338 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1339 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1340 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1341 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1342 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1343 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1344 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1345 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1346 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1347 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1348 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1349 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1350 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1351 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1352 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1353 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1354 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1355 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1356 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1357 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1358 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1359 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1360 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1361 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1362 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1363 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1364 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1365 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1366 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1367 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1368 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1369 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1370 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1371 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1372 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1373 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1374 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1375 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1376 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1377 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1378 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1379 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1380 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1381 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1382 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1383 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1384 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1385 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1386 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1387 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1388 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1389 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1390 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1391 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1392 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1393 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1394 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1395 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1396 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1397 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1398 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1399 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1400 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1401 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1402 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1403 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1404 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1405 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1406 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1407 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1408 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1409 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1410 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1411 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1412 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1413 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1414 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1415 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1416 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1417 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1418 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1419 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1420 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1421 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1422 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1423 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1424 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1425 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1426 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1427 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1428 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1429 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1430 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1431 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1432 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1433 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1434 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1435 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1436 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1437 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1438 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1439 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1440 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1441 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1442 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1443 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1444 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1445 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1446 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1447 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1448 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1449 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1450 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1451 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1452 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1453 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1454 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1455 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1456 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1457 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1458 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1459 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1460 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1461 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1462 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1463 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1464 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1465 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1466 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1467 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1468 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1469 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1470 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1471 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1472 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1473 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1474 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1475 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1476 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1477 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1478 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1479 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1480 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1481 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1482 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1483 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1484 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1485 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1486 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1487 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1488 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1489 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1490 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1491 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1492 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1493 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1494 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1495 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1496 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1497 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1498 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1499 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1500 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1501 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1502 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1503 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1504 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1505 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1506 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1507 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1508 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1509 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1510 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1511 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1512 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1513 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1514 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1515 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1516 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1517 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1518 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1519 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1520 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1521 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1522 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1523 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1524 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1525 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1526 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1527 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1528 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1529 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1530 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1531 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1532 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1533 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1534 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1535 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1536 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1537 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1538 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1539 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1540 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1541 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1542 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1543 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1544 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1545 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1546 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1547 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1548 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1549 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1550 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1551 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1552 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1553 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1554 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1555 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1556 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1557 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1558 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1559 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1560 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1561 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1562 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1563 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1564 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1565 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1566 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1567 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1568 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1569 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1570 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1571 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1572 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1573 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1574 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1575 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1576 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1577 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1578 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1579 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1580 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1581 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1582 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1583 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1584 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1585 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1586 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1587 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1588 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1589 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1590 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1591 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1592 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1593 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1594 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1595 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1596 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1597 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1598 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1599 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1600 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1601 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1602 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1603 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1604 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1605 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1606 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1607 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1608 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1609 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1610 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1611 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1612 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1613 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1614 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1615 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1616 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1617 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1618 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1619 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1620 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1621 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1622 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1623 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1624 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1625 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1626 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1627 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1628 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1629 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1630 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1631 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1632 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1633 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1634 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1635 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1636 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1637 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1638 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1639 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1640 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1641 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1642 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1643 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1644 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1645 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1646 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1647 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1648 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1649 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1650 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1651 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1652 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1653 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1654 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1655 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1656 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1657 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1658 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1659 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1660 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1661 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1662 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1663 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1664 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1665 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1666 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1667 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1668 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1669 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1670 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1671 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1672 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1673 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1674 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1675 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1676 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1677 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1678 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1679 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1680 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1681 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1682 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1683 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1684 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1685 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1686 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1687 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1688 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1689 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1690 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1691 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1692 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1693 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1694 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1695 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1696 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1697 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1698 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1699 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1700 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1701 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1702 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1703 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1704 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1705 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1706 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1707 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1708 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1709 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1710 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1711 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1712 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1713 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1714 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1715 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1716 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1717 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1718 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1719 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1720 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1721 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1722 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1723 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1724 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1725 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1726 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1727 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1728 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1729 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1730 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1731 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1732 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1733 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1734 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1735 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1736 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1737 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1738 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1739 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1740 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1741 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1742 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1743 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1744 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1745 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1746 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1747 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1748 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1749 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1750 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1751 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1752 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1753 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1754 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1755 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1756 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1757 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1758 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1759 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1760 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1761 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1762 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1763 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1764 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1765 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1766 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1767 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1768 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1769 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1770 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1771 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1772 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1773 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1774 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1775 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1776 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1777 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1778 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1779 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1780 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1781 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1782 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1783 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1784 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1785 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1786 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1787 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1788 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1789 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1790 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1791 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1792 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1793 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1794 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1795 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1796 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1797 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1798 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1799 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1800 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1801 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1802 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1803 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1804 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1805 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1806 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1807 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1808 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1809 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1810 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1811 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1812 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1813 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1814 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1815 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1816 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1817 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1818 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1819 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1820 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1821 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1822 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1823 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1824 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1825 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1826 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1827 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1828 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1829 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1830 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1831 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1832 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1833 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1834 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1835 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1836 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1837 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1838 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1839 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1840 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1841 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1842 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1843 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1844 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1845 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1846 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1847 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1848 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1849 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1850 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1851 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1852 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1853 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1854 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1855 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1856 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1857 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1858 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1859 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1860 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1861 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1862 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1863 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1864 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1865 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1866 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1867 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1868 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1869 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1870 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1871 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1872 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1873 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1874 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1875 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1876 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1877 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1878 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1879 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1880 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1881 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1882 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1883 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1884 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1885 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1886 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1887 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1888 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1889 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1890 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1891 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1892 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1893 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1894 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1895 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1896 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1897 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1898 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1899 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1900 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1901 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1902 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1903 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1904 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1905 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1906 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1907 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1908 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1909 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1910 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1911 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1912 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1913 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1914 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1915 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1916 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1917 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1918 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1919 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1920 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1921 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1922 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1923 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1924 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1925 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1926 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1927 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1928 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1929 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1930 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1931 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1932 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1933 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1934 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1935 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1936 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1937 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1938 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1939 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1940 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1941 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1942 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1943 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1944 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1945 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1946 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1947 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1948 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1949 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1950 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1951 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1952 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1953 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1954 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1955 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1956 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1957 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1958 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1959 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1960 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1961 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1962 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1963 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1964 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1965 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1966 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1967 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1968 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1969 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1970 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1971 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1972 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1973 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1974 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1975 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1976 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1977 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1978 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1979 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1980 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1981 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1982 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1983 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1984 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1985 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1986 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1987 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1988 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1989 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1990 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1991 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1992 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1993 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1994 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1995 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1996 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1997 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1998 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 1999 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2000 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2001 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2002 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2003 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2004 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2005 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2006 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2007 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2008 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2009 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2010 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2011 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2012 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2013 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2014 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2015 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2016 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2017 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2018 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2019 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2020 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2021 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2022 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2023 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2024 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2025 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2026 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2027 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2028 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2029 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2030 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2031 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2032 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2033 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2034 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2035 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2036 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2037 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2038 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2039 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2040 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2041 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2042 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2043 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2044 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2045 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2046 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2047 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2048 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2049 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2050 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2051 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2052 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2053 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2054 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2055 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2056 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2057 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2058 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2059 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2060 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2061 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2062 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2063 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2064 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2065 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2066 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2067 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2068 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2069 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2070 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2071 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2072 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2073 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2074 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2075 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2076 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2077 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2078 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2079 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2080 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2081 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2082 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2083 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2084 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2085 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2086 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2087 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2088 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2089 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2090 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2091 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2092 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2093 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2094 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2095 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2096 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2097 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2098 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2099 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2100 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2101 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2102 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2103 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2104 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2105 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2106 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2107 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2108 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2109 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2110 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2111 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2112 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2113 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2114 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2115 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2116 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2117 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2118 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2119 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2120 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2121 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2122 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2123 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2124 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2125 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2126 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2127 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2128 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2129 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2130 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2131 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2132 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2133 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2134 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2135 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2136 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2137 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2138 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2139 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2140 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2141 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2142 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2143 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2144 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2145 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2146 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2147 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2148 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2149 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2150 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2151 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2152 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2153 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2154 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2155 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2156 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2157 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2158 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2159 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2160 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2161 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2162 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2163 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2164 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2165 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2166 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2167 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2168 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2169 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2170 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2171 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2172 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2173 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2174 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2175 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2176 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2177 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2178 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2179 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2180 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2181 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2182 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2183 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2184 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2185 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2186 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2187 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2188 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2189 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2190 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2191 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2192 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2193 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2194 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2195 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2196 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2197 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2198 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2199 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2200 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2201 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2202 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2203 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2204 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2205 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2206 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2207 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2208 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2209 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2210 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2211 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2212 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2213 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2214 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2215 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2216 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2217 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2218 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2219 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2220 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2221 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2222 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2223 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2224 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2225 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2226 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2227 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2228 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2229 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2230 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2231 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2232 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2233 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2234 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2235 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2236 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2237 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2238 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2239 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2240 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2241 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2242 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2243 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2244 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2245 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2246 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2247 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2248 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2249 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2250 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2251 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2252 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2253 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2254 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2255 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2256 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2257 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2258 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2259 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2260 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2261 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2262 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2263 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2264 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2265 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2266 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2267 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2268 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2269 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2270 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2271 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2272 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2273 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2274 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2275 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2276 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2277 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2278 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2279 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2280 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2281 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2282 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2283 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2284 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2285 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2286 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2287 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2288 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2289 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2290 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2291 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2292 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2293 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2294 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2295 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2296 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2297 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2298 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2299 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2300 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2301 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2302 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2303 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2304 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2305 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2306 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2307 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2308 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2309 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2310 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2311 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2312 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2313 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2314 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2315 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2316 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2317 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2318 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2319 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2320 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2321 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2322 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2323 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2324 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2325 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2326 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2327 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2328 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2329 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2330 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2331 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2332 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2333 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2334 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2335 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2336 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2337 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2338 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2339 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2340 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2341 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2342 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2343 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2344 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2345 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2346 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2347 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2348 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2349 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2350 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2351 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2352 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2353 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2354 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2355 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2356 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2357 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2358 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2359 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2360 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2361 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2362 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2363 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2364 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2365 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2366 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2367 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2368 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2369 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2370 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2371 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2372 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2373 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2374 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2375 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2376 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2377 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2378 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2379 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2380 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2381 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2382 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2383 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2384 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2385 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2386 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2387 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2388 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2389 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2390 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2391 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2392 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2393 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2394 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2395 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2396 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2397 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2398 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2399 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2400 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2401 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2402 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2403 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2404 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2405 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2406 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2407 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2408 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2409 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2410 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2411 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2412 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2413 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2414 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2415 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2416 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2417 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2418 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2419 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2420 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2421 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2422 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2423 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2424 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2425 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2426 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2427 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2428 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2429 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2430 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2431 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2432 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2433 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2434 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2435 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2436 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2437 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2438 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2439 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2440 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2441 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2442 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2443 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2444 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2445 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2446 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2447 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2448 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2449 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2450 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2451 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2452 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2453 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2454 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2455 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2456 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2457 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2458 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2459 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2460 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2461 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2462 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2463 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2464 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2465 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2466 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2467 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2468 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2469 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2470 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2471 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2472 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2473 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2474 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2475 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2476 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2477 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2478 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2479 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2480 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2481 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2482 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2483 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2484 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2485 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2486 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2487 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2488 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2489 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2490 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2491 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2492 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2493 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2494 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2495 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2496 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2497 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2498 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2499 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2500 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2501 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2502 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2503 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2504 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2505 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2506 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2507 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2508 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2509 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2510 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2511 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2512 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2513 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2514 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2515 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2516 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2517 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2518 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2519 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2520 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2521 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2522 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2523 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2524 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2525 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2526 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2527 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2528 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2529 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2530 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2531 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2532 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2533 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2534 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2535 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2536 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2537 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2538 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2539 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2540 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2541 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2542 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2543 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2544 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2545 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2546 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2547 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2548 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2549 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2550 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2551 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2552 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2553 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2554 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2555 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2556 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2557 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2558 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2559 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2560 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2561 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2562 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2563 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2564 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2565 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2566 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2567 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2568 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2569 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2570 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2571 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2572 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2573 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2574 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2575 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2576 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2577 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2578 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2579 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2580 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2581 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2582 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2583 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2584 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2585 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2586 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2587 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2588 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2589 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2590 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2591 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2592 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2593 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2594 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2595 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2596 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2597 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2598 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2599 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2600 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2601 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2602 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2603 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2604 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2605 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2606 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2607 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2608 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2609 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2610 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2611 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2612 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2613 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2614 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2615 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2616 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2617 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2618 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2619 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2620 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2621 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2622 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2623 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2624 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2625 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2626 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2627 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2628 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2629 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2630 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2631 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2632 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2633 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2634 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2635 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2636 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2637 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2638 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2639 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2640 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2641 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2642 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2643 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2644 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2645 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2646 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2647 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2648 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2649 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2650 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2651 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2652 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2653 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2654 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2655 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2656 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2657 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2658 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2659 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2660 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2661 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2662 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2663 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2664 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2665 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2666 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2667 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2668 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2669 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2670 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2671 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2672 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2673 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2674 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2675 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2676 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2677 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2678 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2679 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2680 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2681 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2682 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2683 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2684 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2685 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2686 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2687 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2688 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2689 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2690 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2691 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2692 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2693 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2694 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2695 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2696 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2697 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2698 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2699 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2700 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2701 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2702 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2703 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2704 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2705 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2706 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2707 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2708 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2709 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2710 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2711 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2712 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2713 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2714 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2715 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2716 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2717 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2718 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2719 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2720 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2721 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2722 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2723 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2724 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2725 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2726 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2727 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2728 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2729 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2730 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2731 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2732 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2733 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2734 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2735 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2736 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2737 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2738 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2739 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2740 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2741 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2742 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2743 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2744 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2745 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2746 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2747 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2748 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2749 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2750 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2751 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2752 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2753 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2754 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2755 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2756 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2757 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2758 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2759 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2760 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2761 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2762 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2763 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2764 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2765 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2766 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2767 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2768 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2769 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2770 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2771 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2772 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2773 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2774 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2775 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2776 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2777 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2778 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2779 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2780 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2781 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2782 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2783 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2784 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2785 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2786 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2787 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2788 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2789 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2790 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2791 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2792 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2793 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2794 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2795 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2796 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2797 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2798 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2799 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2800 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2801 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2802 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2803 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2804 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2805 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2806 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2807 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2808 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2809 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2810 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2811 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2812 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2813 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2814 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2815 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2816 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2817 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2818 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2819 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2820 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2821 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2822 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2823 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2824 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2825 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2826 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2827 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2828 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2829 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2830 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2831 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2832 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2833 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2834 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2835 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2836 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2837 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2838 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2839 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2840 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2841 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2842 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2843 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2844 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2845 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2846 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2847 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2848 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2849 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2850 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2851 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2852 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2853 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2854 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2855 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2856 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2857 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2858 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2859 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2860 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2861 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2862 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2863 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2864 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2865 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2866 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2867 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2868 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2869 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2870 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2871 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2872 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2873 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2874 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2875 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2876 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2877 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2878 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2879 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2880 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2881 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2882 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2883 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2884 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2885 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2886 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2887 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2888 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2889 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2890 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2891 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2892 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2893 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2894 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2895 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2896 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2897 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2898 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2899 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2900 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2901 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2902 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2903 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2904 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2905 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2906 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2907 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2908 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2909 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2910 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2911 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2912 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2913 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2914 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2915 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2916 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2917 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2918 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2919 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2920 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2921 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2922 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2923 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2924 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2925 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2926 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2927 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2928 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2929 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2930 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2931 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2932 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2933 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2934 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2935 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2936 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2937 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2938 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2939 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2940 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2941 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2942 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2943 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2944 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2945 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2946 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2947 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2948 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2949 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2950 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2951 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2952 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2953 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2954 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2955 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2956 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2957 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2958 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2959 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2960 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2961 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2962 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2963 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2964 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2965 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2966 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2967 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2968 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2969 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2970 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2971 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2972 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2973 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2974 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2975 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2976 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2977 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2978 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2979 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2980 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2981 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2982 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2983 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2984 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2985 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2986 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2987 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2988 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2989 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2990 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2991 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2992 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2993 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2994 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2995 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2996 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2997 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2998 -------
+ *** Mejor Solucion: 102.0
+
+ ------- Generacion 2999 -------
+ *** Mejor Solucion: 102.0
+
+
+Tiempo aproximado de ejecucion 4 segundos

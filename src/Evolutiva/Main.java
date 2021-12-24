@@ -7,14 +7,13 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    static int GN= 1;                //Cantidad de Generaciones
-    static int N= 10;                   //Cantidad de ciudades
-    static int POB= 1000;                //Cantidad de individuos de la poblacion 1000
-    static Double PC= 0.9;              //Probabilidad de Cruce
-    static Double PM= 0.3;              //Probabilidad de Mutacion
-    static int TR= 4;                  //Cantidad de individuos por Torneo
-    static final int CTR= (int) POB/2;  //Cantidad de Torneos
-    static int ST= 2;                   //Variable de seleccion para Steady-State
+    static int GN;                //Cantidad de Generaciones
+    static int N;                   //Cantidad de ciudades
+    static int POB;                //Cantidad de individuos de la poblacion
+    static Double PC;              //Probabilidad de Cruce
+    static Double PM;              //Probabilidad de Mutacion
+    static int TR;                  //Cantidad de individuos por Torneo
+    static int ST;                   //Variable de seleccion para Steady-State
 
     static int aux;
     static double daux;
@@ -23,8 +22,8 @@ public class Main {
     static StringBuilder salida = new StringBuilder();
     public static Double matrizCaminoEntreCiudades[][];
 
-    static int eleccionCruce= 0;
-    static int eleccionMutacion= 0;
+    static int eleccionCruce;
+    static int eleccionMutacion;
     
 
     public static void fitness(ArrayList<ArrayList<Double>> poblacion){
@@ -33,9 +32,10 @@ public class Main {
 
         for(int j=0; j<POB; j++){
             ArrayList<Double> individuo = poblacion.get(j);
-            
+            //mostrarIndividuo(individuo);
             for(int i=0; i < individuo.size(); i++){       
                 if(i+1 <= individuo.size()-1){
+                    //System.out.println(" valor de i: "+i);
                     costo += matrizCaminoEntreCiudades[individuo.get(i).intValue()][individuo.get(i+1).intValue()];
                 }
                 else{
@@ -48,7 +48,7 @@ public class Main {
     }
 
     public static void mostrarIndividuo(ArrayList<Double> individuo){
-        /*salida.append("\n  Camino Planteado");
+        salida.append("\n  Camino Planteado");
         for(int i=0; i<individuo.size(); i++){
             if(i < individuo.size()-1){
                 aux= individuo.get(i).intValue();
@@ -57,19 +57,19 @@ public class Main {
             else{
                 salida.append("\n"+i+": Ciudad "+ individuo.get(0).intValue());
             }
-        }*/
-        
+        }
+        /*
   
         System.out.println("  Mostrando un Individuo");
         for(int i=0; i<individuo.size(); i++){
             System.out.println(i+": "+individuo.get(i));
-        }
+        }*/
 
         //System.out.println(individuo.get(N));
     }
 
     public static void mostrarPoblacion(ArrayList<ArrayList<Double>> poblacion){
-        System.out.println("  Mostrando la Poblacion");
+        //System.out.println("  Mostrando la Poblacion");
         for(int j=0; j<POB; j++){
             System.out.println(" Solucion "+j);
             for(int i=0; i<poblacion.get(j).size(); i++){
@@ -117,13 +117,14 @@ public class Main {
         double max1 = 0.0;
         int padre2 = -1;
         double max2 = 0.0;
+        int CTR= (int) POB/2;
         
         //System.out.println("   Seleccion de Padres");
 
-        for(int j=0; j<CTR; j++){
+        while(padres.size() < POB){
             daux= Math.random();
             
-            if(daux <= PC){ //Probabilidad de Cruce implementada como probabilidad de hacer el torneo
+            if(daux <= PC){ //Probabilidad de Cruce implementada como probabilidad de hacer el torneo entre padres
                 // --------- Padre 1 ---------
                 rta = false;
                 index = new int[TR];
@@ -157,12 +158,12 @@ public class Main {
                     }
                 }
                 padres.add(padre1);
-    /*
+/*
                 System.out.println("  Torneo de Padre 1");
                 for(int k=0; k<index.length; k++){
                     System.out.println(k+": "+index[k]);
                 }
-    */
+*/
                 // --------- Padre 2 ---------
                 rta = false;
                 index = new int[TR];
@@ -208,9 +209,6 @@ public class Main {
                     System.out.println(k+": "+index[k]);
                 }
 */
-            }
-            else{
-                j--;
             }
         }
 /*
@@ -316,16 +314,9 @@ public class Main {
         padres.clear();
     }
 
-    private static void inicIndividuo(ArrayList<Double> individuo){
-        if(individuo.size() >= N){
-            for(int i= 0; i < N; i++){
-                individuo.set(i,-1.0);
-            }
-        }
-        else{
-            for(int i= 0; i < N; i++){
-                individuo.add(-1.0);
-            }
+    private static void inicIndividuo(ArrayList<Double> individuo){        
+        for(int i= 0; i < N; i++){
+            individuo.add(-1.0);
         }
     }
 
@@ -362,14 +353,15 @@ public class Main {
     public static void cruceBasadoEnCiclos(ArrayList<ArrayList<Double>> poblacion){
         ArrayList<Double> padre1 = new ArrayList<>();
         ArrayList<Double> padre2 = new ArrayList<>();
-        ArrayList<Double> individuo= new ArrayList<>();
-        ArrayList<Double> individuo2= new ArrayList<>();
         double[] ciclos= new double[N];
         boolean rta= false;
         int pos= 0;
         int icant= 0;
+
         //System.out.println("   Cruce Basado en Ciclos");
-        for(int i=0; i<padres.size();i=i+2){
+        for(int i=0; i<POB;i= i+2){
+            ArrayList<Double> individuo= new ArrayList<>();
+            ArrayList<Double> individuo2= new ArrayList<>();
             inicCiclos(ciclos);
             inicIndividuo(individuo);
             inicIndividuo(individuo2);
@@ -379,7 +371,11 @@ public class Main {
             icant= 0;
             padre1= poblacion.get(padres.get(i));
             padre2= poblacion.get(padres.get(i+1));
-            
+
+            //System.out.println(" Padres antes del cruce");
+            //mostrarIndividuo(padre1);
+            //mostrarIndividuo(padre2);
+       
             while(icant < N){
                 ciclos[aux]= padre1.get(pos);
                 icant++;
@@ -394,6 +390,7 @@ public class Main {
                     if(!rta){
                         ciclos[icant]= daux;
                         icant++;
+                        //System.out.println("pos: "+pos+" ... daux: "+daux);
                         individuo.set(pos, daux);
                         daux= padre2.get(pos);
                     }
@@ -402,7 +399,11 @@ public class Main {
                         j= N;
                     }
                 }
-                
+
+                if(icant == N && individuo2.get(pos) == -1.0){
+                    individuo2.set(pos, daux);
+                }
+
                 for(int j=0; j<N; j++){
                     daux= padre2.get(j);
                     rta= DoubleStream.of(ciclos).anyMatch(x -> x == daux);
@@ -412,6 +413,7 @@ public class Main {
                         j= N;
                     }
                 }
+
                 if(icant < N){
                     ciclos[aux]= padre2.get(pos);
                     icant++;
@@ -448,8 +450,17 @@ public class Main {
                     }
                 }
             }
+            //System.out.println(" Hijos generados en el cruce");
+            //mostrarIndividuo(individuo);
+            //mostrarIndividuo(individuo2);
+
             hijos.add(individuo);
             hijos.add(individuo2);
+        }
+
+        if(POB%2 != 0){
+            aux= (int) (POB * Math.random());
+            hijos.add(poblacion.get(aux));
         }
     }
 
@@ -731,7 +742,7 @@ public class Main {
         }
 
         long endTime = System.currentTimeMillis();
-        //mostrarIndividuo(poblacion.get(POB-1));
+        mostrarIndividuo(poblacion.get(POB-1));
         salida.append("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
         //System.out.println("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
 
@@ -739,10 +750,3 @@ public class Main {
 
     }
 }
-
-/*
-Consultas:
-* La probabilidad de cruce va en la seleccion de padres o en el algoritmo de cruce?
-    Si va en el algoritmo de cruce no voy a generar 100 hijos, sino menos.
-    Si va en la seleccion de padres puede que ese torneo se descarte por antidoping (elegi este)
-*/

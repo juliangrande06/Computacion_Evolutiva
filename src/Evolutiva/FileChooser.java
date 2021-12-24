@@ -1,6 +1,7 @@
 package Evolutiva;
-import javax.swing.*;
+
 import java.io.File;
+import javax.swing.JFileChooser;
 
 public class FileChooser {
     File selectedFile;
