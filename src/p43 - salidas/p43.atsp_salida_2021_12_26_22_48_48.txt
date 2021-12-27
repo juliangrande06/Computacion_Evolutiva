@@ -1,0 +1,735 @@
+Archivo: p43.atsp
+Cantidad de Ciudades (N): 43 
+
+ BUSQUEDA DE PARAMETROS 
+Cantidad de Generaciones MAXIMAS (GN): 40000 
+Poblacion 800 ~ 800 
+Solucion Ideal: 5620.0 
+Margen de Error entre soluciones: 0.0 
+Cruce en Orden 0.7 ~ 0.7 
+Mutacion por Insercion 0.4 ~ 0.4 
+Cantidad de individuos por Torneo 8 ~ 8 
+Cantidad de Individuos para Steady-State 8 ~ 8 
+
+ *** Generacion: 0
+ ** Mejor Solucion: 22818.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1
+ ** Mejor Solucion: 22812.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2
+ ** Mejor Solucion: 22610.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 8
+ ** Mejor Solucion: 22550.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 13
+ ** Mejor Solucion: 22362.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 21
+ ** Mejor Solucion: 16996.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 41
+ ** Mejor Solucion: 16963.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 318
+ ** Mejor Solucion: 12058.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 383
+ ** Mejor Solucion: 11985.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 404
+ ** Mejor Solucion: 11919.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 460
+ ** Mejor Solucion: 11672.999999999998
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 856
+ ** Mejor Solucion: 11671.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 897
+ ** Mejor Solucion: 11664.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 913
+ ** Mejor Solucion: 11632.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1027
+ ** Mejor Solucion: 11630.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1049
+ ** Mejor Solucion: 11612.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1103
+ ** Mejor Solucion: 11573.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1106
+ ** Mejor Solucion: 11572.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1132
+ ** Mejor Solucion: 11555.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1257
+ ** Mejor Solucion: 11544.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1325
+ ** Mejor Solucion: 11526.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 1415
+ ** Mejor Solucion: 6219.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2029
+ ** Mejor Solucion: 6217.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2048
+ ** Mejor Solucion: 6194.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2082
+ ** Mejor Solucion: 6047.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2419
+ ** Mejor Solucion: 6040.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2679
+ ** Mejor Solucion: 6032.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2867
+ ** Mejor Solucion: 6028.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2922
+ ** Mejor Solucion: 6023.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 2948
+ ** Mejor Solucion: 6007.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 3118
+ ** Mejor Solucion: 5994.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 3217
+ ** Mejor Solucion: 5962.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 3361
+ ** Mejor Solucion: 5940.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 3694
+ ** Mejor Solucion: 5924.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 4095
+ ** Mejor Solucion: 5917.000000000001
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 4480
+ ** Mejor Solucion: 5915.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 4785
+ ** Mejor Solucion: 5897.999999999999
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 4875
+ ** Mejor Solucion: 5896.000000000001
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 5274
+ ** Mejor Solucion: 5889.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 5587
+ ** Mejor Solucion: 5866.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 6664
+ ** Mejor Solucion: 5865.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 7024
+ ** Mejor Solucion: 5850.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 7523
+ ** Mejor Solucion: 5848.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 8327
+ ** Mejor Solucion: 5844.999999999999
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 9148
+ ** Mejor Solucion: 5831.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 9366
+ ** Mejor Solucion: 5826.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 9598
+ ** Mejor Solucion: 5824.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 9820
+ ** Mejor Solucion: 5819.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 10495
+ ** Mejor Solucion: 5817.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 10802
+ ** Mejor Solucion: 5813.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 11570
+ ** Mejor Solucion: 5794.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 12515
+ ** Mejor Solucion: 5778.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 13631
+ ** Mejor Solucion: 5777.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 14093
+ ** Mejor Solucion: 5759.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 15576
+ ** Mejor Solucion: 5756.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 16004
+ ** Mejor Solucion: 5730.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 16978
+ ** Mejor Solucion: 5729.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 17281
+ ** Mejor Solucion: 5726.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 17589
+ ** Mejor Solucion: 5719.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 18297
+ ** Mejor Solucion: 5718.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 18733
+ ** Mejor Solucion: 5716.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 18753
+ ** Mejor Solucion: 5711.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 19385
+ ** Mejor Solucion: 5707.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 19575
+ ** Mejor Solucion: 5701.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 20802
+ ** Mejor Solucion: 5700.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 21188
+ ** Mejor Solucion: 5699.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 21523
+ ** Mejor Solucion: 5694.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 21569
+ ** Mejor Solucion: 5691.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 21943
+ ** Mejor Solucion: 5680.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 22339
+ ** Mejor Solucion: 5659.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 23883
+ ** Mejor Solucion: 5657.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 24358
+ ** Mejor Solucion: 5656.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 25035
+ ** Mejor Solucion: 5649.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 25879
+ ** Mejor Solucion: 5648.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+ *** Generacion: 27302
+ ** Mejor Solucion: 5647.0
+ * Parametros: 
+POB:800
+PC: 0.7
+PM: 0.4
+TR: 8
+ST: 8
+
+  Camino Planteado
+0: Ciudad 16
+1: Ciudad 17
+2: Ciudad 20
+3: Ciudad 19
+4: Ciudad 18
+5: Ciudad 41
+6: Ciudad 40
+7: Ciudad 42
+8: Ciudad 38
+9: Ciudad 39
+10: Ciudad 27
+11: Ciudad 28
+12: Ciudad 1
+13: Ciudad 2
+14: Ciudad 3
+15: Ciudad 35
+16: Ciudad 0
+17: Ciudad 4
+18: Ciudad 37
+19: Ciudad 36
+20: Ciudad 24
+21: Ciudad 21
+22: Ciudad 22
+23: Ciudad 23
+24: Ciudad 25
+25: Ciudad 26
+26: Ciudad 34
+27: Ciudad 33
+28: Ciudad 13
+29: Ciudad 12
+30: Ciudad 14
+31: Ciudad 5
+32: Ciudad 7
+33: Ciudad 6
+34: Ciudad 10
+35: Ciudad 8
+36: Ciudad 11
+37: Ciudad 9
+38: Ciudad 32
+39: Ciudad 31
+40: Ciudad 30
+41: Ciudad 29
+42: Ciudad 15
+43: Ciudad 16
+
+Tiempo aproximado de ejecucion 314 segundos

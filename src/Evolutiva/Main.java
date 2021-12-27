@@ -627,11 +627,35 @@ public class Main {
         }
 
         hijos.clear();
+        padres.clear();
     }
 
-    public static void menuInicio(){
+    public static void menu(ArrayList<ArrayList<Double>> poblacion){
         Scanner lectura = new Scanner (System.in);
+        int rta= 0;
         salida.append("Cantidad de Ciudades (N): "+N+" \n");
+
+        System.out.println("Prueba manual de solucion (1) o Buscar parametros de solucion particular (2): ");
+        rta= lectura.nextInt();
+
+        while(rta != 1 && rta != 2){
+            System.out.println("ELECCION NO VALIDA \n");
+            System.out.println("Prueba manual de solucion (1) o Buscar parametros de solucion particular (2): ");
+            rta= lectura.nextInt();
+        }
+
+        if(rta == 1){
+            salida.append("\n PRUEBA MANUAL DE SOLUCION \n");
+            menuInicio(poblacion);
+        }
+        else{
+            salida.append("\n BUSQUEDA DE PARAMETROS \n");
+            inicio(poblacion);
+        }
+    }
+
+    public static void menuInicio(ArrayList<ArrayList<Double>> poblacion){
+        Scanner lectura = new Scanner (System.in);
 
         System.out.println("Cantidad de Generaciones (GN): ");
         GN= lectura.nextInt();
@@ -695,18 +719,8 @@ public class Main {
 
         lectura.close();
         //System.out.println(GN+" "+POB+" "+PC+" "+PM+" "+TR+" "+ST);
-    }
 
-    public static void main(String[] args) throws IOException { 
-        FileChooser file = new FileChooser();
-        String dir = file.run();
-        Archivo.getInstance().read(dir);
-        String[] saux= dir.split("/");
-        salida.append("Archivo: "+saux[saux.length-1]+"\n");
-
-        ArrayList<ArrayList<Double>> poblacion = new ArrayList<>(); //Representacion de la poblacion actual de individuos
         double sol;
-        menuInicio();
         long startTime = System.currentTimeMillis();
         inicializacionAleatoria(poblacion);
         fitness(poblacion);
@@ -731,7 +745,6 @@ public class Main {
             }
 
             fitness(hijos);
-            seleccionPadres(poblacion);
             sobrevivientesStady_State(poblacion);
 
             //Muesto la mejor solucion de la Generacion
@@ -745,8 +758,181 @@ public class Main {
         mostrarIndividuo(poblacion.get(POB-1));
         salida.append("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
         //System.out.println("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
+    }
+
+    public static void inicio(ArrayList<ArrayList<Double>> poblacion){
+        Scanner lectura = new Scanner (System.in);
+        double solucionIdeal;
+        double margenError;
+        int GNmax;
+        int POBmin;
+        int POBmax;
+        int TRmin;
+        int TRmax;
+        int STmin;
+        int STmax;
+        double PCmin=0.0;
+        double PCmax=0.0;
+        double PMmin=0.0;
+        double PMmax=0.0;
+
+        System.out.println("Cantidad de Generaciones MAXIMAS (GN): ");
+        GNmax= lectura.nextInt();
+        salida.append("Cantidad de Generaciones MAXIMAS (GN): "+GNmax+" \n");
+
+        System.out.println("Poblacion MINIMA (POBmin): ");
+        POBmin= lectura.nextInt();
+        System.out.println("Poblacion MAXIMA (POBmax): ");
+        POBmax= lectura.nextInt();
+        salida.append("Poblacion "+POBmin+" ~ "+POBmax+" \n");
+
+        System.out.println("Solucion Ideal: ");
+        solucionIdeal= lectura.nextDouble();
+        salida.append("Solucion Ideal: "+solucionIdeal+" \n");
+
+        System.out.println("Margen de Error entre soluciones: ");
+        margenError= lectura.nextDouble();
+        salida.append("Margen de Error entre soluciones: "+margenError+" \n");
+
+        while(eleccionCruce != 1 && eleccionCruce != 2){
+            System.out.println("Cruce en Orden (1) o Cruce basado en Ciclos (2): ");
+            eleccionCruce= lectura.nextInt();
+
+            if(eleccionCruce != 1 && eleccionCruce != 2){
+                System.out.println("Opcion no valida");
+            }
+            else{
+                System.out.println("Probabilidad de Cruce MINIMA (PCmin) ~ Double con coma: ");
+                PCmin= lectura.nextDouble();
+                System.out.println("Probabilidad de Cruce MAXIMA (PCmax) ~ Double con coma: ");
+                PCmax= lectura.nextDouble();
+                
+                switch(eleccionCruce){
+                    case(1):
+                        salida.append("Cruce en Orden "+PCmin+" ~ "+PCmax+" \n");
+                        break;
+                    case(2):
+                        salida.append("Cruce basado en Ciclos "+PCmin+" ~ "+PCmax+" \n");
+                        break;
+                }
+            }
+        }
+
+        while(eleccionMutacion != 1 && eleccionMutacion != 2){
+            System.out.println("Mutacion por Insercion (1) o Mutacion por Inversion (2): ");
+            eleccionMutacion= lectura.nextInt();
+
+            if(eleccionMutacion != 1 && eleccionMutacion != 2){
+                System.out.println("Opcion no valida");
+            }
+            else{
+                System.out.println("Probabilidad de Mutacion MINIMA (PM) ~ Double con coma: ");
+                PMmin= lectura.nextDouble();
+                System.out.println("Probabilidad de Mutacion MAXIMA (PM) ~ Double con coma: ");
+                PMmax= lectura.nextDouble();
+                
+                switch(eleccionMutacion){
+                    case(1):
+                        salida.append("Mutacion por Insercion "+PMmin+" ~ "+PMmax+" \n");
+                        break;
+                    case(2):
+                        salida.append("Mutacion por Inversion "+PMmin+" ~ "+PMmax+" \n");
+                        break;
+                }
+            }
+        }
+
+        System.out.println("Cantidad de individuos MINIMO por Torneo (TRmin): ");
+        TRmin= lectura.nextInt();
+        System.out.println("Cantidad de individuos MAXIMO por Torneo (TRmax): ");
+        TRmax= lectura.nextInt();
+        salida.append("Cantidad de individuos por Torneo "+TRmin+" ~ "+TRmax+" \n");
+        
+        System.out.println("Cantidad de individuos MINIMO para Steady-State (STmin): ");
+        STmin= lectura.nextInt();
+        System.out.println("Cantidad de individuos MAXIMO para Steady-State (STmax): ");
+        STmax= lectura.nextInt();
+        salida.append("Cantidad de Individuos para Steady-State "+STmin+" ~ "+STmax+" \n");
+
+        double solucionActual=0.0;
+        ArrayList<Double> mejorS= new ArrayList<>();
+        double sol=Double.POSITIVE_INFINITY;
+
+        long startTime = System.currentTimeMillis();
+        for(POB=POBmin; (solucionActual != solucionIdeal) && (Math.abs(solucionActual-solucionIdeal) > margenError) && POB<=POBmax; POB= POB+100){
+            System.out.println("   En Proceso ... POB: "+POB);
+            
+            for(PC=PCmin; (solucionActual != solucionIdeal) && (Math.abs(solucionActual-solucionIdeal) > margenError) && PC<=PCmax; PC= PC+0.1){
+                for(PM=PMmin; (solucionActual != solucionIdeal) && (Math.abs(solucionActual-solucionIdeal) > margenError) && PM<=PMmax; PM= PM+0.1){
+                    System.out.println("Mutando con: "+PM);
+                    for(TR=TRmin; (solucionActual != solucionIdeal) && (Math.abs(solucionActual-solucionIdeal) > margenError) && TR<=TRmax; TR++){
+                        for(ST=STmin; (solucionActual != solucionIdeal) && (Math.abs(solucionActual-solucionIdeal) > margenError) && (ST<=STmax); ST++){
+                            poblacion= new ArrayList<>();
+                            inicializacionAleatoria(poblacion);
+                            fitness(poblacion);
+                            
+                            for(GN=0; (solucionActual != solucionIdeal) && (Math.abs(solucionActual-solucionIdeal) > margenError) && GN<=GNmax; GN++){
+                                
+                                if(solucionActual != solucionIdeal && Math.abs(solucionActual-solucionIdeal) > margenError){
+                                    seleccionPadres(poblacion);
+                                    
+                                    if(eleccionCruce == 1){
+                                        cruceEnOrden(poblacion);
+                                    }
+                                    else{
+                                        cruceBasadoEnCiclos(poblacion);
+                                    }
+
+                                    if(eleccionMutacion == 1){
+                                        mutacionPorInsercion();
+                                    }
+                                    else{
+                                        mutacionPorInversion();
+                                    }
+
+                                    fitness(hijos);
+                                    sobrevivientesStady_State(poblacion);
+                                    
+                                    
+                                    quickSort(poblacion, 0, POB-1);
+                                    solucionActual= 1/poblacion.get(POB-1).get(N); //Mejor solucion de la Generacion
+
+                                    if(solucionActual < sol){
+                                        mejorS= poblacion.get(POB-1);
+                                        sol= solucionActual;
+                                        salida.append("\n *** Generacion: "+ GN+"\n");
+                                        salida.append(" ** Mejor Solucion: "+ sol+"\n");
+                                        salida.append(" * Parametros: \nPOB:"+ POB+"\nPC: "+ PC+"\nPM: "+ PM+"\nTR: "+ TR+"\nST: "+ ST+"\n");
+                                    }
+
+                                    if(solucionActual == solucionIdeal){
+                                        salida.append("\n *** Se alcanzo la Solucion Ideal: "+ solucionActual+"\n");
+                                    }
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        long endTime = System.currentTimeMillis();
+        mostrarIndividuo(mejorS); //poblacion.get(POB-101)
+        salida.append("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
+        //System.out.println("\n\nTiempo aproximado de ejecucion " + ((endTime - startTime)/1000) + " segundos");
+    }
+
+    public static void main(String[] args) throws IOException { 
+        FileChooser file = new FileChooser();
+        String dir = file.run();
+        Archivo.getInstance().read(dir);
+        String[] saux= dir.split("/");
+        salida.append("Archivo: "+saux[saux.length-1]+"\n");
+
+        ArrayList<ArrayList<Double>> poblacion = new ArrayList<>(); //Representacion de la poblacion actual de individuos
+        menu(poblacion);
 
         Archivo.getInstance().write(salida.toString(), saux[saux.length-1]);
-
     }
 }
