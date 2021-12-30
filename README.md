@@ -7,7 +7,7 @@ Implementacion del TPE Final correspondiente a la materia Introduccion a la Comp
 
 # Creacion del ejecutable
  - EL archivo manifest debe contener el Path del main -> Evolutiva.Main
- - Ejecutar por consola desde el path Evolutiva/: jar cvmf Evolutiva/MANIFEST.MF final.jar Evolutiva/*.class
+ - Ejecutar por consola desde el path Evolutiva/src/: jar cvmf Evolutiva/MANIFEST.MF Final_Evo.jar Evolutiva/*.class
 
 #Ejecucion del ejecutable
- - java -jar final.jar
+ - java -jar Final_Evo.jar
